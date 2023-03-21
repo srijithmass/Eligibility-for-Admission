@@ -23,7 +23,7 @@ Print the status of the program.
 End of program.
 
 ## Program:
-```
+```c#
 using System;
 using System.Collections.Generic;
 using System.Linq;
